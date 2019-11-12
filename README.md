@@ -28,6 +28,7 @@ https://github.com/brpaz/ulauncher-jetbrains
 
 The following Jetbrains IDEs are supported:
 
+* RubyMine
 * PHPStorm
 * WebStorm
 * PyCharm
@@ -40,6 +41,7 @@ You also need to configure the path of your IDE "recentProjects" file in the plu
 
 This extension suports the following keywords:
 
+`rmine` -> To open a RubyMine project
 `pstorm` -> To open a PHPStorm project
 `webstorm`-> To open a WebStorm project
 `intellij` -> To open a Intelij project
