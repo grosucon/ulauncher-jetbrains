@@ -41,11 +41,11 @@ You also need to configure the path of your IDE "recentProjects" file in the plu
 
 This extension suports the following keywords:
 
-`rmine` -> To open a RubyMine project
 `pstorm` -> To open a PHPStorm project
 `webstorm`-> To open a WebStorm project
 `intellij` -> To open a Intelij project
 `pycharm`-> To open a Pycharm project.
+`rmine` -> To open a RubyMine project
 
 **Note: To avoid creating a separate extension for each IDE, I use the keyword to identify which projects to look for. Because of this, you cant change the default keywords, without changing the code.
 This will be no longer an issue after [this](https://github.com/Ulauncher/Ulauncher/issues/284) is fixed on Ulauncher side.**
