@@ -28,11 +28,11 @@ https://github.com/brpaz/ulauncher-jetbrains
 
 The following Jetbrains IDEs are supported:
 
-* RubyMine
 * PHPStorm
 * WebStorm
 * PyCharm
 * InteliJ
+* RubyMine
 
 Before using this extension, you must create a command line launcher for your Jetbrains IDE. For that you can go to "Tools -> Create Command Line Launcher" in your IDE.
 After that, you should configure the path to the created launcher in the plugin settings.
